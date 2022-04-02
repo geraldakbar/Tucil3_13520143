@@ -18,7 +18,7 @@ public class ReadText {
 
     public void readPuzzleFile(String file_name) {
         String line = "";
-        Path file_path = FileSystems.getDefault().getPath("test", file_name);
+        Path file_path = FileSystems.getDefault().getPath("..","test", file_name);
         try {
             BufferedReader br = new BufferedReader((new FileReader(file_path.toString())));
             while ((line = br.readLine()) != null) {
