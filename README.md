@@ -9,7 +9,7 @@
 - [Cara Menggunakan Program](#use)
 
 ## Deskripsi Program<a name = "desc"></a>
-Program ini adalah program yang mengimplementasikan algoritma *Branch and Bound* untuk penyelesaian permainan 15-puzzle. Program akan membaca sebuah puzzle yang ditulis didalam file txt. Setiap tile puzzle dipisah oleh spasi dan setiap baris dipisahkan oleh newline, contohnya sebagai berikut.
+Program ini adalah program yang mengimplementasikan algoritma *Branch and Bound* untuk penyelesaian permainan 15-puzzle. Program akan membaca sebuah puzzle yang ditulis didalam file txt. Setiap tile puzzle dipisah oleh spasi dan setiap baris dipisahkan oleh newline, contohnya sebagai berikut. <br>
 <img width="82" alt="Screen Shot 2022-04-02 at 16 57 02" src="https://user-images.githubusercontent.com/69229629/161377971-8f93869d-4686-4592-bfa6-fd6a2568027d.png">
 
 Setelah pembacaan program akan menghasilkan hasil dari nilai KURANG(i) dan Path ke solusi puzzle. 
