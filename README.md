@@ -30,8 +30,8 @@ Setelah pembacaan program akan menghasilkan hasil dari nilai KURANG(i) dan Path 
 ```sh
  $ java Main
 ```
-3. Pilih salah satu dari 5 puzzle yang sudah tersedia (1.txt,2.txt...,5.txt),
-   *catatan: jika ingin menambahkan puzzle sendiri, tambahkan di folder test sesuai format diatas"
+3. Pilih salah satu dari 5 puzzle yang sudah tersedia (1.txt,2.txt...,5.txt) <br>
+   *catatan: jika ingin menambahkan puzzle sendiri, tambahkan di folder test sesuai format diatas"*
 <img width="179" alt="Screen Shot 2022-04-02 at 16 54 53" src="https://user-images.githubusercontent.com/69229629/161377889-8dae9d46-677e-4d9d-af6f-5d6bd304f9dd.png">
 
 4. Solusi puzzle akan dihasilkan 
