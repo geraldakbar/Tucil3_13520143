@@ -22,7 +22,7 @@ Setelah pembacaan program akan menghasilkan hasil dari nilai KURANG(i) dan Path 
 <br>
 
 ## Cara Menggunakan Program <a name="use"></a>
-1. Unzip file Tucil_13520143 dan navigasi ke file src menggunakan terminal
+1. Unzip file Tucil3_13520143 dan navigasi ke file src menggunakan terminal
 ```sh
  $ cd src
 ```
@@ -31,7 +31,7 @@ Setelah pembacaan program akan menghasilkan hasil dari nilai KURANG(i) dan Path 
  $ java Main
 ```
 3. Pilih salah satu dari 5 puzzle yang sudah tersedia (1.txt,2.txt...,5.txt) <br>
-   *catatan: jika ingin menambahkan puzzle sendiri, tambahkan di folder test sesuai format diatas"*
+   *catatan: jika ingin menambahkan puzzle sendiri, tambahkan di folder test sesuai format diatas*
 <img width="179" alt="Screen Shot 2022-04-02 at 16 54 53" src="https://user-images.githubusercontent.com/69229629/161377889-8dae9d46-677e-4d9d-af6f-5d6bd304f9dd.png">
 
 4. Solusi puzzle akan dihasilkan 
