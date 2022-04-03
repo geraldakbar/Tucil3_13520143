@@ -22,9 +22,9 @@ Setelah pembacaan program akan menghasilkan hasil dari nilai KURANG(i) dan Path 
 <br>
 
 ## Cara Menggunakan Program <a name="use"></a>
-1. Unzip file Tucil3_13520143 dan navigasi ke file src menggunakan terminal
+1. Unzip file Tucil3_13520143 dan navigasi ke folder bin menggunakan terminal
 ```sh
- $ cd src
+ $ cd bin
 ```
 2. Jalankan main program menggunakan
 ```sh
